@@ -1,0 +1,66 @@
+
+
+
+*{
+    font-family: Roboto;
+}
+
+/* navbar section-code */
+
+.secttion_margg{
+    margin-top: 100px;
+    background-color: #F5FCFF;
+    }
+.ul_hoverr > li >a:hover{
+    color: #5E3BEE;
+}
+.active_color{
+    color: #5E3BEE;
+}
+
+.btn_borderr{
+    border: 1px solid #5E3BEE;
+    color: #5E3BEE;
+    background-color: white;
+}
+
+/* Expertise section button  */
+.bottomcolor{
+    border-bottom: 3px solid #5E3BEE;
+}
+
+
+.btn_color{
+   background-color: #5E3BEE;
+   color: white;
+}
+
+.cardbg_colorr{
+    background-color: #F5FCFF; 
+}
+.cardborder_colorr{
+    border: 1px solid #006B6A;
+}
+
+.marginn{
+    margin-top: 200px;
+}
+.inpuoborder_colorr{
+    border: 1px solid #5E3BEE;
+}
+
+
+.border_colorr{
+    border-bottom: 2px solid #5E3BEE;
+    width: 190px;
+}
+
+.sectio1text_maggr{
+    margin-top: 120px;
+}
+.sectio1text_color{
+    color: #5E3BEE;
+}
+.socialbtn{
+    
+}
